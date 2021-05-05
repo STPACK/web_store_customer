@@ -1,0 +1,14 @@
+.cardDetail{
+    display: flex;
+    margin-top: 10%;
+    width: 100%;
+    justify-content: space-between;
+}
+.button{
+    
+   display: flex;
+}
+
+.Button{
+    background-color: brown;
+}

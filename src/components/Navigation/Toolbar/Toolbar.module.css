@@ -1,0 +1,59 @@
+.appBar{
+  box-shadow: none;
+  border-bottom: 3px solid brown;
+}
+
+.title{
+  flex-grow: 1;
+  align-items: center;
+  display: flex;
+  text-decoration: none;
+}
+
+.navLink{
+  display: flex;
+  margin-right: 20px;
+  text-decoration: none;
+  
+}
+
+.navLink a{
+  text-decoration: none;
+  margin: 0 10px;
+}
+
+.toolbar{
+  height: 80px;
+  width: 100%;
+  position: fixed;
+  background-color: white;
+  top: 0;
+  left: 0;
+  display: flex;
+  z-index: 100;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 30px;
+  
+}
+
+.respond a{
+  color: black;
+  text-decoration: none;
+}
+.respond a:hover{
+  color: brown;
+  
+}
+
+@media(max-width:699px){
+  .respond{
+    display: none;
+  }
+}
+
+@media(min-width:700px){
+  .toggle{
+    display: none;
+  }
+}

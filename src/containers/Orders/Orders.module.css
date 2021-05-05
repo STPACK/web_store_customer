@@ -1,0 +1,14 @@
+.tableHead{
+    text-align: center;
+    font-weight: normal;
+}
+
+.tableBody th{
+    font-weight: normal;
+}
+
+.tableBody{
+    text-align: center;
+    color: rgb(136, 136, 136);
+    font-weight: normal;
+}

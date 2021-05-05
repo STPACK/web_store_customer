@@ -1,0 +1,9 @@
+.divider{
+    margin: 35px auto;
+}
+
+.priceDetail{
+    display: flex;
+    justify-content: space-between;
+    margin: 25px 0;
+}

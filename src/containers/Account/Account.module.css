@@ -1,0 +1,9 @@
+.changePassword{
+    color: #007bff;
+    cursor: pointer;
+}
+
+.changePassword :hover{
+    color: #0056b3;
+    text-decoration: underline;
+}

@@ -1,0 +1,21 @@
+.root {
+  display: flex;
+  padding: 5px;
+  width: 100%;
+  margin-bottom: 8px;
+}
+
+.media {
+  width: 150px;
+}
+
+.content {
+  width: 100%;
+}
+
+.subContent {
+  margin-top: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+

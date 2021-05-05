@@ -1,0 +1,24 @@
+.root {
+  max-width: 100%;
+}
+.media{
+    height: 0%;
+    padding-top: 55%;
+}
+.content {
+  display: flex;
+  justify-content: space-between;
+}
+
+.action {
+  display: flex;
+  justify-content: space-between;
+}
+
+
+
+.cards:hover img{
+  
+  transform: scale(1.05);
+
+}
